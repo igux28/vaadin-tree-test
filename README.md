@@ -3,6 +3,9 @@ tree-test
 
 Template for a simple Vaadin application that only requires a Servlet 3.0 container to run.
 
+Database
+========
+Execute the script within database folder for creating the table and insert the needed data
 
 Workflow
 ========
